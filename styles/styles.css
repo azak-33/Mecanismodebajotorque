@@ -1,0 +1,9 @@
+
+.container{
+    display : flex;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
